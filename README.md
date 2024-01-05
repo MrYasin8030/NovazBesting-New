@@ -3,4 +3,4 @@ Rust-source
 Rust-cheat
 Rust-source
 Rust-internal
-discord:codeart1337
+discord:mryasin
